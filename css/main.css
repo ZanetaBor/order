@@ -1,0 +1,66 @@
+@import url(reset.css);
+
+html {
+    font-size: 62.5%;
+    font-family: 'Lato', sans-serif;
+    color: #404040;   
+}
+
+body {
+    margin: 2rem;
+    background: url(../img/sklep.png) center no-repeat;
+    background-size: cover;
+    display: flex;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-content: center;
+    font-size: 1.5rem;
+}
+
+a {
+    text-decoration: none;
+    color: #404040;
+    padding: 1.5rem;
+    margin: 2rem;
+}
+
+h1{
+    font-size: 3rem;
+    padding: 3rem;
+    text-align: center;
+    font-weight: 700;
+}
+
+form {
+    width: 50%;
+    margin: 3rem 0rem;;
+}
+
+input {
+    width: 10rem;
+    height: 4rem;   
+}
+
+textarea {
+    width: 15rem;
+    height: 15rem;
+    display: block;
+}
+
+input, textarea {
+    color: #999999;
+    text-align: center;
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+input:hover, textarea:hover {
+    color: #8f00df;
+}
+
+.order {
+    margin: 2rem;
+    padding: 2rem;
+    line-height: 1.5;
+    font-size: 1.5rem;
+}
