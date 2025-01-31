@@ -8,10 +8,6 @@
         <title>Shop</title>
 
 	<meta http-equiv="Content-Security-Policy" default-src 'none'; script-src 'self'; style-src 'self'; img-src 'self' data:;">
-	<link rel="icon" type="image/png" href="img/favicon-96x96.png" sizes="96x96" />
-	<link rel="icon" type="image/svg+xml" href="img/favicon.svg" />
-	<link rel="icon" type="image/x-icon" href="img/favicon.ico">
-	<link rel="manifest" href="img/site.webmanifest" /> 
 	    
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <link rel="stylesheet" type="text/css" href="css/main.css">
