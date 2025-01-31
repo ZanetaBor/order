@@ -8,7 +8,7 @@ html {
 
 body {
     margin: 2rem;
-    background: url(../img/sklep.png) center no-repeat;
+    background: url(../img/sklep.png) center no-repeat alt="background";
     background-size: cover;
     display: flex;
     flex-flow: column wrap;
